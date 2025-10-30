@@ -33,8 +33,6 @@ temperature-4-economies/
 3. Open and run the notebook:  
    Use Jupyter Notebook / JupyterLab to run step-by-step analysis.
 
-4. View visual outputs in `visuals/` or open any exports in `export/`.
-
 ## Results & Insights
 
 - Identified comparative temperature trends across economies  
